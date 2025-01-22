@@ -121,7 +121,11 @@ public class MemoriaClasica extends Application {
             // Restablecer la selección
             primeraCartaSeleccionada = null;
             primerBotonSeleccionado = null;
+            
+            System.out.println("Prueba version juego memoria");         
         }
+        
+      
     }
 
     public static void main(String[] args) {
